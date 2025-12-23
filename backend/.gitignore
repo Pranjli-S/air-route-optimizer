@@ -1,1 +1,14 @@
+
 backend/.env
+.env
+
+venv/
+__pycache__/
+*.pyc
+
+*.db
+backend/airports_dataset_final.csv
+
+
+project/node_modules/
+project/dist/
